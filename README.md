@@ -84,5 +84,5 @@ I will continue iterating on this project after the **Kaggle Market Prediction**
 ## 🙌 Acknowledgements
 
 - [Rainbow DQN: Combining Improvements in Deep RL](https://arxiv.org/abs/1710.02298)  
-- [OpenAI Gym Atari environments](https://gym.openai.com/)  
+- [OpenAI Gym Atari environments](https://gymnasium.farama.org/)  
 - DeepMind’s original **DQN** and **Rainbow** research papers  
